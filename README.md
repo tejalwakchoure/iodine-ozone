@@ -1,4 +1,4 @@
-# Global Iodine Levels May Be Highest Ever By 2050, Ozone Layer Directly Affected
+# Global Iodine Levels Set To Reach Record High By 2050, Threaten Ozone Layer
 
 Code for the data journalism project hosted [here](https://tejalwakchoure.github.io/iodine-ozone/).
 
