@@ -27,8 +27,9 @@ Iodine levels became 3x higher over the past 60 years. When you factor in the im
 
 1. Creating a calendar heatmap in Pythpn
 2. Using Rawgraphs
-3. Using Figma to polish a chart
+3. Using Figma to polish a chart - moved Y axis to the right too!
 
 ## Future improvements and additions
 
 1. Making a graphic to compare the conditions that preceded the highest iodine levels to the current scenario effectively.
+2. Maybe annotate the heatmaps to highlight highest and lowest values.
