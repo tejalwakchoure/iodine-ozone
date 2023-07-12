@@ -32,4 +32,4 @@ Iodine levels became 3x higher over the past 60 years. When you factor in the im
 ## Future improvements and additions
 
 1. Making a graphic to compare the conditions that preceded the highest iodine levels to the current scenario effectively.
-2. Maybe annotate the heatmaps to highlight highest and lowest values.
+2. Annotate the heatmaps to highlight highest and lowest values or to highlight springtime.
