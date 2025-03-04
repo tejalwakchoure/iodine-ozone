@@ -25,7 +25,7 @@ Iodine levels became 3x higher over the past 60 years. When you factor in the im
 
 ## New skills
 
-1. Creating a calendar heatmap in Pythpn
+1. Creating a calendar heatmap in Python
 2. Using Rawgraphs
 3. Using Figma to polish a chart - moved Y axis to the right too!
 
